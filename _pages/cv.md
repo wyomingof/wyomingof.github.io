@@ -16,7 +16,7 @@ Education
 * B.S. in Computer Science, Portland State University, 2026 (expected)
 
 
-Work experience
+Experience
 ======
 * Summer 2015: Research Assistant
   * Github University
