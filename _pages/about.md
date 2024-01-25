@@ -11,5 +11,5 @@ redirect_from:
 I am a second-year Computer Science student at Portland State University.
 
 Contact
-==
-My email is lowecal [at] pdx.edu
+=====
+You can reach me at lowecal [at] pdx.edu
