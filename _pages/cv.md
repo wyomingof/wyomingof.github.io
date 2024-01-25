@@ -7,6 +7,8 @@ redirect_from:
   - /resume
 ---
 
+You can download a PDF version here.
+
 {% include base_path %}
 
 Education
