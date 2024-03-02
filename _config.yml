@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Caleb Lowe"
 title_separator          : "-"
 name                     : &name "Caleb Lowe"
-description              : &description "Undergraduate Computer Science student"
+description              : &description "Undergraduate Computer Science Student"
 url                      : https://wyomingof.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "wyomingof/wyomingof.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Caleb Lowe"
   avatar           : "profile.png"
-  bio              : "Undergraduate Computer Science student at Portland State University"
+  bio              : "Undergraduate Computer Science Student at Portland State University"
   location         : "Portland, OR, USA"
   employer         :
   pubmed           :
