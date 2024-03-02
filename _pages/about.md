@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a second-year Computer Science student at [Maseeh College of Engineering and Computer Science](https://www.pdx.edu/engineering/) within Portland State University.
+I am a second-year computer science undergraduate at [Maseeh College of Engineering and Computer Science](https://www.pdx.edu/engineering/) within Portland State University.
 
 I am interested in reinforcement learning research and its applications to autonomous robotics.
 
