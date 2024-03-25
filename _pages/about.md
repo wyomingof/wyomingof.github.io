@@ -18,4 +18,4 @@ You can reach me at lowecal [at] pdx.edu or message me on X.
 
 Featured
 =====
-Currently working on an LLM which can self-cast invisibility - see preview.
+Currently working on an LLM which can self cast invisibility, see the demo.
