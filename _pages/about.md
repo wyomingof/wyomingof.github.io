@@ -12,12 +12,10 @@ I am a second-year undergraduate computer science student at [Maseeh College of 
 
 I am interested in reinforcement learning, large language models, and autonomous robotics.
 
-Featured
-=====
-
-Why is it empty? There will be things here soon..
-
-
 Contact
 =====
 You can reach me at lowecal [at] pdx.edu or message me on X.
+
+Featured
+=====
+Currently working on an LLM which can self-cast invisibility, - see a preview build below,
