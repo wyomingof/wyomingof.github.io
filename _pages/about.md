@@ -15,9 +15,9 @@ I am interested in reinforcement learning, large language models, and autonomous
 Featured
 =====
 
-Here are some cool things.
+Why is it empty? There will be things here soon..
 
 
 Contact
 =====
-You can reach me at lowecal [at] pdx.edu or send me a message on X.
+You can reach me at lowecal [at] pdx.edu or message me on X.
