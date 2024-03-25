@@ -20,4 +20,4 @@ Here are some cool things.
 
 Contact
 =====
-You can reach me at lowecal [at] pdx.edu
+You can reach me at lowecal [at] pdx.edu or send me a message on X.
