@@ -10,7 +10,7 @@ redirect_from:
 
 I am a second-year undergraduate computer science student at [Maseeh College of Engineering and Computer Science](https://www.pdx.edu/engineering/) within Portland State University.
 
-I am interested in reinforcement learning, large language models, and autonomous robotics.
+I am interested in robotics, reinforcement learning, and large language models.
 
 Contact
 =====
