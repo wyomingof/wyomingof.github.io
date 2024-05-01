@@ -10,7 +10,7 @@ redirect_from:
 
 I am a second-year undergraduate computer science student at [Maseeh College of Engineering and Computer Science](https://www.pdx.edu/engineering/) within Portland State University.
 
-My interests broadly span the intersection of embodied AI, robotics, and reinforcement learning. I think current language models are remarkable achievements but are limited by their interfaces. I am passionate about creating systems which can truly interact with and assist us in the physical world.
+My interests are at the intersection of embodied AI, robotics, and reinforcement learning. I admire the capabilities of current language models but think their real-world applications are limited by their interfaces. I'm passionate about developing systems that can more effectively interact with and assist us in the physical world, pushing the boundaries of how AI integrates into our daily lives.
 
 Outside of school
 
