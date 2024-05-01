@@ -12,7 +12,7 @@ I am a second-year undergraduate computer science student at [Maseeh College of 
 
 My interests are at the intersection of embodied AI, robotics, and reinforcement learning. I admire the capabilities of current language models but think their real-world applications are limited by their interfaces. I'm passionate about developing systems that can more effectively interact with and assist us in the physical world.
 
-Outside of school, my three favorite things to read about are space, physics, and tech - and probably also video games.
+Outside of school, my three favorite things to read about are space, physics, and tech. My two top shows of all time probably have to be Attack on Titan and Red vs. Blue.
 
 Contact
 =====
